@@ -1,5 +1,3 @@
-README.md created for the repository — full contents below.
-
 ```markdown name=README.md
 # AI Chess Coach
 
